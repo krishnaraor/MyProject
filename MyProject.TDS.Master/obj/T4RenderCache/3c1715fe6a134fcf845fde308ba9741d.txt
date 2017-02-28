@@ -1,0 +1,17 @@
+//Revision: 97e23ffd-02a5-4109-98b0-3e82a5a2e94d
+ErrorGeneratingOutput
+*********************************************
+An error occured while generating code for item '/sitecore/templates'.
+T4 Template: D:\Users\amit-sharma\Documents\Visual Studio 2015\Projects\MyProject\MyProject.TDS.Master\Code Generation Templates\glassv3item.tt
+Errors:
+
+Compiling transformation: Invalid token 'this' in class, struct, or interface member declaration
+
+Compiling transformation: Method must have a return type
+
+Compiling transformation: Identifier expected
+
+Compiling transformation: 'GeneratedTextTransformation.Write()' must declare a body because it is not marked abstract, extern, or partial
+
+*********************************************
+

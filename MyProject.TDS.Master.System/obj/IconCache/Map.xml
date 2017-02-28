@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ItemIconCache>
+  <Item ItemPath="/sitecore/system" ItemIcon="/temp/IconCache/People/16x16/workstation1.png" />
+  <Item ItemPath="/sitecore/system/Publishing targets" ItemIcon="/temp/IconCache/Network/16x16/server_earth.png" />
+  <Item ItemPath="/sitecore/system/Publishing targets/Internet" ItemIcon="/temp/iconcache/network/16x16/server.png" />
+  <Item ItemPath="/sitecore/system/Workflows" ItemIcon="/sitecore/shell/themes/standard/Network/32x32/outbox.png" />
+  <Item ItemPath="/sitecore/system/Workflows/Sample Workflow/Draft" ItemIcon="/sitecore/shell/themes/standard/applications/16x16/document_edit.png" />
+  <Item ItemPath="/sitecore/system/Workflows/Sample Workflow/Awaiting Approval" ItemIcon="/temp/IconCache/applications/16x16/document_ok.png" />
+  <Item ItemPath="/sitecore/system/Workflows/Sample Workflow/Draft/Submit" ItemIcon="/temp/IconCache/office/16x16/submit.png" />
+  <Item ItemPath="/sitecore/system/Workflows/Sample Workflow/Awaiting Approval/Approve with Test" ItemIcon="/sitecore/shell/client/Applications/ContentTesting/Assets/16x16/workflow_test.png" />
+  <Item ItemPath="/sitecore/system/Workflows/Sample Workflow/Awaiting Approval/Approve" ItemIcon="/temp/IconCache/office/16x16/check.png" />
+  <Item ItemPath="/sitecore/system/Workflows/Sample Workflow/Awaiting Approval/Approve with Test/Validation Action" ItemIcon="/~/icon/Network/16x16/mail.png.aspx" />
+  <Item ItemPath="/sitecore/system/Workflows/Sample Workflow" ItemIcon="/~/icon/network/16x16/outbox.png.aspx" />
+  <Item ItemPath="/sitecore/system/Workflows/Sample Workflow/Approved" ItemIcon="/temp/IconCache/Network/16x16/earth.png" />
+  <Item ItemPath="/sitecore/system/Workflows/Sample Workflow/Approved/Auto Publish" ItemIcon="/temp/IconCache/Network/16x16/earth_add.png" />
+  <Item ItemPath="/sitecore/system/Workflows/Sample Workflow/Awaiting Approval/Approve/Validation Action" ItemIcon="/~/icon/Network/16x16/mail.png.aspx" />
+  <Item ItemPath="/sitecore/system/Workflows/Sample Workflow/Awaiting Approval/Approve with Test/Launch Create Test Dialog" ItemIcon="/~/icon/office/16x16/scientist.png.aspx" />
+  <Item ItemPath="/sitecore/system/Workflows/Sample Workflow/Awaiting Approval/Reject" ItemIcon="/temp/IconCache/office/16x16/delete.png" />
+  <Item ItemPath="/sitecore/system/Workflows/Sample Workflow/Draft/__OnSave" ItemIcon="/temp/IconCache/office/16x16/submit.png" />
+  <Item ItemPath="/sitecore/system/Workflows/Sample Workflow/Draft/__OnSave/Auto Submit Action" ItemIcon="/temp/IconCache/office/16x16/submit.png" />
+</ItemIconCache>
