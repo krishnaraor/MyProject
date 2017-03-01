@@ -1,0 +1,5 @@
+D:\Users\amit-sharma\Documents\Visual Studio 2015\Projects\MyProject\MyProject.Sc\bin\Debug\MyProject.Sc.dll
+D:\Users\amit-sharma\Documents\Visual Studio 2015\Projects\MyProject\MyProject.Sc\bin\Debug\MyProject.Sc.pdb
+D:\Users\amit-sharma\Documents\Visual Studio 2015\Projects\MyProject\MyProject.Sc\obj\Debug\MyProject.Sc.csprojResolveAssemblyReference.cache
+D:\Users\amit-sharma\Documents\Visual Studio 2015\Projects\MyProject\MyProject.Sc\obj\Debug\MyProject.Sc.dll
+D:\Users\amit-sharma\Documents\Visual Studio 2015\Projects\MyProject\MyProject.Sc\obj\Debug\MyProject.Sc.pdb
