@@ -14,7 +14,6 @@
     <file src="App_Config\**\*.config" target="App_Config" />
     <file src="bin\*.dll" target="bin" />
     <file src="default.css" target="" />
-    <file src="default.htm.sitedown" target="" />
     <file src="default.js" target="" />
     <file src="Global.asax" target="" />
     <file src="Web.*.config" target="" />
