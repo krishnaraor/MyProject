@@ -12,7 +12,6 @@
   </metadata>
   <files>
     <file src="App_Config\**\*.config" target="App_Config" />
-    <file src="Assets\**\*.*" target="Assets" />
     <file src="bin\*.dll" target="bin" />
     <file src="Views\**\*" target="Views" />
     <file src="default.css" target="" />
@@ -22,7 +21,5 @@
     <file src="Web.*.config" target="" />
     <file src="Web.config" target="" />
     <file src="webedit.css" target="" />
-    <file src="*.ps1" target="" />
-    <file src="Unicorn\**\*.*" target="Unicorn" />
   </files>
 </package>
