@@ -36,3 +36,9 @@ D:\Users\amit-sharma\Documents\Visual Studio 2015\Projects\MyProject\MyProject\b
 D:\Users\amit-sharma\Documents\Visual Studio 2015\Projects\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
 D:\Users\amit-sharma\Documents\Visual Studio 2015\Projects\MyProject\MyProject\obj\Debug\MyProject.dll
 D:\Users\amit-sharma\Documents\Visual Studio 2015\Projects\MyProject\MyProject\obj\Debug\MyProject.pdb
+D:\Users\amit-sharma\Documents\Visual Studio 2015\Projects\MyProject\MyProject\bin\Kamsar.WebConsole.dll
+D:\Users\amit-sharma\Documents\Visual Studio 2015\Projects\MyProject\MyProject\bin\MicroCHAP.dll
+D:\Users\amit-sharma\Documents\Visual Studio 2015\Projects\MyProject\MyProject\bin\Rainbow.dll
+D:\Users\amit-sharma\Documents\Visual Studio 2015\Projects\MyProject\MyProject\bin\Rainbow.Storage.Sc.dll
+D:\Users\amit-sharma\Documents\Visual Studio 2015\Projects\MyProject\MyProject\bin\Rainbow.Storage.Yaml.dll
+D:\Users\amit-sharma\Documents\Visual Studio 2015\Projects\MyProject\MyProject\bin\Unicorn.dll

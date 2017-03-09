@@ -52,11 +52,16 @@
     <Content Include="default.css" />
     <Content Include="default.js" />
     <Content Include="Global.asax" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="webedit.css" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="App_Data\" />
+    <Folder Include="App_Data\Serialization\Layouts\" />
+    <Folder Include="App_Data\Serialization\Renderings\" />
+    <Folder Include="App_Data\Serialization\Sublayouts\" />
+    <Folder Include="App_Data\Serialization\Templates\" />
     <Folder Include="Controllers\" />
     <Folder Include="Models\" />
     <Folder Include="Views\" />
@@ -81,6 +86,7 @@
     </Content>
     <Content Include="App_Config\Include\Unicorn\Unicorn.config" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.AutoPublish.config" />
+    <Content Include="App_Config\Include\Unicorn.Configs.Default.config" />
     <None Include="Properties\PublishProfiles\Default Settings.pubxml" />
     <None Include="Properties\PublishProfiles\local.pubxml" />
   </ItemGroup>
