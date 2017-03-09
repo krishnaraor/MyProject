@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>MyProject</id>
-    <version>1.0.0</version>
+    <version>1.0</version>
      <authors>Krishna</authors>
     <title>MyProject</title>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
