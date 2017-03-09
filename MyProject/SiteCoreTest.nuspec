@@ -19,5 +19,6 @@
     <file src="Web.*.config" target="" />
     <file src="Web.config" target="" />
     <file src="webedit.css" target="" />
+junk
   </files>
 </package>
