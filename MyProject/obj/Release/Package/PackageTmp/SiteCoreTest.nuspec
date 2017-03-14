@@ -12,6 +12,7 @@
   </metadata>
   <files>
     <file src="App_Config\**\*.config" target="App_Config" />
+    <file src="App_Data\**\*.config" target="App_Data" />
     <file src="bin\*.dll" target="bin" />
     <file src="default.css" target="" />
     <file src="default.js" target="" />
