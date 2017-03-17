@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MyProject</id>
+    <version>1.0</version>
+     <authors>Krishna</authors>
+    <title>MyProject</title>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>NuSpec file</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+  </metadata>
+  <files>
+    <file src="App_Config\**\*.config" target="App_Config" />
+    <file src="App_Data\**\*.config" target="App_Data" />
+    <file src="bin\*.dll" target="bin" />
+    <file src="default.css" target="" />
+    <file src="default.js" target="" />
+    <file src="Global.asax" target="" />
+    <file src="Web.*.config" target="" />
+    <file src="Web.config" target="" />
+    <file src="webedit.css" target="" />
+  </files>
+
+</package>
